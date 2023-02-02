@@ -1,7 +1,7 @@
 #exercise 1
-Person = 1
 class Student(Person):
-  pass
+  person_n = 3
+print(Student)  
 #!!! example
     
 #exercise 2
